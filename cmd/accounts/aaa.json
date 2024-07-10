@@ -1,0 +1,1 @@
+{"password":"1234","balance":2500,"history":[{"time":"2024-07-10 23:53:25","flow":"Deposit","amount":1000,"balance":1000},{"time":"2024-07-10 23:53:47","flow":"Deposit","amount":1000,"balance":2000},{"time":"2024-07-10 23:53:50","flow":"Deposit","amount":1000,"balance":3000},{"time":"2024-07-10 23:54:11","flow":"Withdraw","amount":500,"balance":2500}]}
